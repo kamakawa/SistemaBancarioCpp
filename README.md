@@ -22,7 +22,7 @@ O programa permite ao usuário criar uma conta bancária (Corrente ou Poupança)
 
 ### Status e Planos Futuros
 
-Este projeto foi desenvolvido durante o 4º período da minha graduação em **[Insira o nome do seu curso]** como uma atividade de aprendizado. 🎓
+Este projeto foi desenvolvido durante o 4º período da minha graduação em **Engenharia de computação** como uma atividade de aprendizado. 🎓
 
 Apesar de funcional, ele é um protótipo inicial. Futuramente, pretendo revisitá-lo para torná-lo mais robusto, incluindo melhorias como:
 
